@@ -8,7 +8,7 @@ iOS Developer • IT Graduate • Apple Developer Academy Alumna
 
 ### About me
 - 🚀 Building thoughtful iOS apps 
-- 🤖 Interested in AI/ML & Product thinking
+- 🤖 Interested in App Development & Product thinking
 - 📍 Riyadh, Saudi Arabia
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/raneem-alomair-595b60237/) 
 
