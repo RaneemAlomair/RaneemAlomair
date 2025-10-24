@@ -13,7 +13,7 @@ iOS Developer • IT Graduate • Apple Developer Academy Alumna
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/raneem-alomair-595b60237/) 
 
 ### What I work with
-Swift · SwiftUI · Xcode · Core ML · Firebase · Git/GitHub
+Swift · SwiftUI · Xcode · Core ML · Firebase · Git/GitHub · APIs
 
 ### Featured
 - 🧠 **Budgeter – Budget Tracker** (AI-assisted budgeting)
